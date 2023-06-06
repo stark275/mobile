@@ -1,0 +1,5 @@
+
+
+https://medium.com/zenithec-techware/road-to-production-ready-application-ii-database-in-flutter-using-sqflite-ebf37ce0279d
+
+https://docs.flutter.dev/cookbook/persistence/sqlite
